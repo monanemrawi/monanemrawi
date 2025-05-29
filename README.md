@@ -27,8 +27,6 @@ Whether it’s optimizing SQL with AI or detecting phishing emails with LLMs, I 
 - **AI-Powered DB Optimizer** – Real-time SQL analysis with natural language feedback via LLMs
 - **Phishing Detector** – Full-stack LLM-based email threat detector with human evaluation metrics  
 
-🔒 Stay tuned as I open-source these soon!
-
 ---
 
 ## 🌱 Currently Exploring
